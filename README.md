@@ -27,19 +27,5 @@
 ## 📈 GitHub Stats
 ![Ravindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrbbro18&show_icons=true&theme=radical)
 
-## 🚀 Projects
-### [Project 1: Data Analysis on COVID-19](https://github.com/vrbbro18/covid19-data-analysis)
-- An in-depth analysis of COVID-19 data using Python, Pandas, and Matplotlib to understand trends and patterns.
-
-### [Project 2: Machine Learning Model for Predicting House Prices](https://github.com/vrbbro18/house-price-prediction)
-- Developed a machine learning model to predict house prices based on various features. Utilized Scikit-Learn for model building and evaluation.
-
-### [Project 3: Personal Blog Website](https://github.com/vrbbro18/personal-blog)
-- Created a personal blog using Flask, HTML, and CSS to share my journey in the field of data science.
-
-## 📝 Blog Posts
-- [Introduction to Machine Learning](https://medium.com/@ravindu-lakshan/introduction-to-machine-learning-123456)
-- [Data Cleaning Techniques](https://medium.com/@ravindu-lakshan/data-cleaning-techniques-123456)
-
 Feel free to check out my repositories and get in touch if you'd like to collaborate or just have a chat about technology and data science!
 
