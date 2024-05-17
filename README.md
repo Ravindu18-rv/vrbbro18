@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrbbro18" alt="vrbbro18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/ravindulak19876" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/ravindulak19876?logo=twitter&style=for-the-badge" alt="https://x.com/ravindulak19876" /></a> </p>
+
 
 - I’m currently pursuing my degree in Information Technology at **SLIIT (Sri Lanka Institute of Information Technology).**
 
